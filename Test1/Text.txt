@@ -1,2 +1,6 @@
 This is some dummy text for testing purposes.
+//this one add
+dummy text line
+
+//This one burn
 Feel free to replace this with your actual content.
