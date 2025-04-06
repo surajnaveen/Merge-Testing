@@ -1,0 +1,6 @@
+# This is a sample description file.
+# You can add your content or description here.
+
+# Example:
+# This file is part of the Merge-Testing project.
+# Created for testing purposes.
